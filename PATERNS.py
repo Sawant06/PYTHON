@@ -106,10 +106,11 @@
 for i in range(6):
      for j in range(10):
           if(i==0 and j==5) or (i==1 and j in{4,6}) or (i==2 and j in{3,5,7}) or (i==3 and j in{2,8}) or (i==4 and j in{1,9}):
-             print('*', end=" ")
+             print('*', end="")
           else:
-             print(" ",end=" ")
+             print(" ",end="")
      print()
+
 
 
 

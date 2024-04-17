@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51a59edc-842b-45b5-a21d-681bc914c298" name="Changes" comment="new12">
-      <change afterPath="$PROJECT_DIR$/PATERNS.py" afterDir="false" />
+    <list default="true" id="51a59edc-842b-45b5-a21d-681bc914c298" name="Changes" comment="new1234">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jhg.py" beforeDir="false" afterPath="$PROJECT_DIR$/jhg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PATERNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/PATERNS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,14 +80,32 @@
       <option name="project" value="LOCAL" />
       <updated>1713342567273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new123">
+      <option name="closed" value="true" />
+      <created>1713348239441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713348239441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new1234">
+      <option name="closed" value="true" />
+      <created>1713349287474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713349287474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="new1" />
     <MESSAGE value="new12" />
-    <option name="LAST_COMMIT_MESSAGE" value="new12" />
+    <MESSAGE value="new123" />
+    <MESSAGE value="new1234" />
+    <option name="LAST_COMMIT_MESSAGE" value="new1234" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
