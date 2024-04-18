@@ -135,11 +135,30 @@
 #     for j in range(6,8):
 #         print(6+i,end=" ")
 #     print()
-a="anamika"
-b = ''
-for i in a:
-  b+=i
-  print (b)
+
+# a="anamika"
+# b = ''
+# for i in a:
+#   b+=i
+#   print (b)
+
+# for i in range(5):
+#     for k in range(5-i-1):
+#         print(" ",end=" ")
+#     for j in range(i+1):
+#         print(1,end="    ")
+#     print()
+# for i in range(4):
+#     for k in range(i+1):
+#         print(" ", end=" ")
+#     for j in range(4-i):
+#         print(  1 , end="    ")
+#     print()
+
+
+
+
+
 
 
 
