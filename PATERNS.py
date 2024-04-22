@@ -142,6 +142,12 @@
 #   b+=i
 #   print (b)
 
+# a="anamika"
+# b = ''
+# for i in a:
+#   b+=i
+#   print (b)
+
 # for i in range(5):
 #     for k in range(5-i-1):
 #         print(" ",end=" ")
@@ -155,6 +161,60 @@
 #         print(  1 , end="    ")
 #     print()
 
+# for i in range(4):
+#   for j in range(4-i):
+#     if(i==0 and j==0):
+#       print("1",end=" ")
+#     else:
+#       print((i+j)*3,end=" ")
+#   print()
+
+
+# a=int(input("enter number"))
+# for i in range(5):
+#   for j in range(5-i):
+#     print(a,end=" ")
+#   print()
+
+
+# for i in range(6):
+#   for j in range(6):
+#     if(i==1 and j==3):
+#       print("A",end="  ")
+#     if(i==2 and j in{2,4}):
+#         print("B",end="")
+#     if(i==3 and j in{1,5}):
+#           print("C",end="")
+#     if(i==4 and j in{2,4}):
+#             print("B",end="")
+#     if(i==5 and j==3):
+#               print("A")
+#     print(" ",end=" ")
+#   print()
+
+# for i in range(4):
+#   for j in range(i+1):
+#     if(i==0 and j==0):
+#       print("1",end=" ")
+#     else:
+#       print((i+j)*3,end=" ")
+#   print()
+
+# for i in range(4):pendinggg
+#   for j in range(4-i):
+#     if(i==0 and j==0):
+#       print(1,end=" ")
+#   else:
+#       print((j+i)*4,end=" ")
+#   print()
+
+for i in range(4):
+  for j in range(4-i):
+    if(i==0 and j==0):
+      print(1,end=" ")
+    else:
+      print((i+j)*3+1,end=" ")
+  print()
 
 
 
