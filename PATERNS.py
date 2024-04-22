@@ -208,13 +208,42 @@
 #       print((j+i)*4,end=" ")
 #   print()
 
-for i in range(4):
-  for j in range(4-i):
-    if(i==0 and j==0):
-      print(1,end=" ")
-    else:
-      print((i+j)*3+1,end=" ")
-  print()
+# for i in range(4):
+#   for j in range(4-i):
+#     if(i==0 and j==0):
+#       print(1,end=" ")
+#     else:
+#       print((i+j)*3+1,end=" ")
+#   print()
+
+# Examples
+# for i in range(5):
+#   for j in range(4-i):
+#     print((i+j)*2,end=" ")
+#   print()
+#
+# for i in range(5):
+#   for j in range(4-i):
+#     print((i+j)*2+1,end=" ")
+#   print()
+#
+# for i in range(1,8):
+#   for j in range(6-i):
+#     print((i+j)*3,end=" ")
+#   print()
+#
+# for i in range(5):
+#   for j in range(5-i):
+#     print((i+j)*3+2,end=" ")
+#   print()
+
+
+# for i in range(1,5):
+#   for j in range(i+1):
+#     print((i+j)*2,end=" ")
+#   print()
+
+
 
 
 
