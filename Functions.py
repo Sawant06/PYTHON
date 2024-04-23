@@ -57,16 +57,35 @@
 # prime()
 
 
-n=int(input("enter number"))
+# n=int(input("enter number"))
+# def fact():
+#     f = 1
+#     for i in range(10):
+#         f *= i
+#         print(i)
+#         print("fatorial number",f)
+# fact()
+
+#
+
 def fact():
     f = 1
-while n>1:
-    f = 1
-    f*=n
-n-=1
-print("fatorial number",f)
+    for i in range(1,10):
+        f *= i
+        print(f)
+fact()
+
+    # print(a)
+n=5
+# def fact():
+#     f=1
+#     while n>=1:
+#         f*=n
+#         print(f)
+# print(fact())
 
 
 
-
-
+# import math
+# print(help('math'))
+# print(math.fibbo(10))
